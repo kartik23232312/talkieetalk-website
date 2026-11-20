@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">TalkieeTalk — Speak More. Connect Globally.</title>
+  <desc id="desc">A welcoming space for English practice and global conversations.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f8fc"/><stop offset="1" stop-color="#efebff"/></linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#4f9cf9"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <circle cx="1000" cy="314" r="230" fill="url(#orb)" opacity=".18"/>
+  <circle cx="1000" cy="314" r="175" fill="none" stroke="#7654ff" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1000" cy="314" r="118" fill="none" stroke="#7654ff" stroke-opacity=".18" stroke-width="2"/>
+  <g fill="#7654ff" opacity=".78"><circle cx="877" cy="225" r="10"/><circle cx="1066" cy="273" r="10"/><circle cx="958" cy="405" r="10"/></g>
+  <path d="M877 225 Q990 128 1066 273 T958 405" fill="none" stroke="#7654ff" stroke-width="3" stroke-dasharray="8 9" opacity=".55"/>
+  <rect x="76" y="75" width="58" height="58" rx="19" fill="#7654ff"/>
+  <path d="M89 91h32v20a7 7 0 0 1-7 7h-9l-10 7v-7h-1a5 5 0 0 1-5-5V91Z" fill="#fff"/>
+  <circle cx="99" cy="102" r="2" fill="#7654ff"/><circle cx="105" cy="102" r="2" fill="#7654ff"/><circle cx="111" cy="102" r="2" fill="#7654ff"/>
+  <text x="151" y="113" fill="#101126" font-family="Arial,sans-serif" font-size="27" font-weight="700">TalkieeTalk</text>
+  <text x="76" y="245" fill="#7654ff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">SPEAK MORE. CONNECT GLOBALLY.</text>
+  <text x="76" y="330" fill="#101126" font-family="Arial,sans-serif" font-size="66" font-weight="700">Your World.</text>
+  <text x="76" y="410" fill="#101126" font-family="Arial,sans-serif" font-size="66" font-weight="700">Your Voice.</text>
+  <text x="76" y="490" fill="#7654ff" font-family="Arial,sans-serif" font-size="66" font-weight="700">Your Conversation.</text>
+  <text x="79" y="548" fill="#6c6c82" font-family="Arial,sans-serif" font-size="21">Practice English and meet people through real conversations.</text>
+</svg>
