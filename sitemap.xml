@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Replace YOUR-DOMAIN.example with the production domain before deployment. -->
-  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/features.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/how-it-works.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/voice-rooms.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/discover.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/premium.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/faq.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/terms.html</loc></url>
+  <url><loc>https://talkieetalk.in/</loc></url>
+  <url><loc>https://talkieetalk.in/features.html</loc></url>
+  <url><loc>https://talkieetalk.in/how-it-works.html</loc></url>
+  <url><loc>https://talkieetalk.in/voice-rooms.html</loc></url>
+  <url><loc>https://talkieetalk.in/discover.html</loc></url>
+  <url><loc>https://talkieetalk.in/premium.html</loc></url>
+  <url><loc>https://talkieetalk.in/about.html</loc></url>
+  <url><loc>https://talkieetalk.in/contact.html</loc></url>
+  <url><loc>https://talkieetalk.in/faq.html</loc></url>
+  <url><loc>https://talkieetalk.in/privacy.html</loc></url>
+  <url><loc>https://talkieetalk.in/terms.html</loc></url>
 </urlset>

@@ -25,11 +25,11 @@ Then visit `http://localhost:8000`.
 
 There is no compile step. Deploy the full directory to a static hosting provider, preserving relative paths. Configure HTTPS and a custom domain with the provider, then set DNS as directed by that provider.
 
-Before production, replace the placeholder host in `sitemap.xml` and `robots.txt` with the verified domain. Add canonical URLs, real app-store links, a verified contact channel and finalized legal documents.
+The domain `talkieetalk.in` is configured in `CNAME`, canonical URLs, Open Graph metadata, `robots.txt` and `sitemap.xml`. Verify DNS before turning on GitHub Pages HTTPS. Add real app-store links, a verified contact channel and finalized legal documents before launch.
 
 ## SEO
 
-All 11 pages have distinct titles and descriptions plus Open Graph metadata and a Twitter card. The homepage includes basic `WebSite` JSON-LD. `assets/talkieetalk-social.svg` is the share-image source. After the domain is confirmed, add absolute `og:url`, `og:image` and canonical URLs, update `robots.txt` and `sitemap.xml`, deploy, then submit the sitemap in the search-console account.
+All 11 pages have distinct titles and descriptions plus canonical URLs, Open Graph metadata and a Twitter card. The homepage includes basic `WebSite` JSON-LD. `assets/talkieetalk-social.svg` is the share image. After DNS and HTTPS work, submit the sitemap in the search-console account.
 
 ## Supabase and authentication
 
